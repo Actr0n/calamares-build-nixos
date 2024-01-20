@@ -1,0 +1,3 @@
+[submodule "calamares"]
+	path = calamares
+	url = https://github.com/Actr0n/calamares
